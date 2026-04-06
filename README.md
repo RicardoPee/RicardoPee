@@ -29,13 +29,6 @@ Actualmente estoy enfocado en construir aplicaciones robustas y escalables, inte
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=RicardoPee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoPee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-</div>
-
 ## 📫 Cómo contactarme
 
 * 📧 **Email:** jricardonews@gmail.com
