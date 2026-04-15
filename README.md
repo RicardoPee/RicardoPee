@@ -33,4 +33,6 @@ Actualmente estoy enfocado en construir aplicaciones robustas y escalables, inte
 
 * 📧 **Email:** jricardonews@gmail.com
 * 💼 **LinkedIn:** www.linkedin.com/in/jesus-ricardo-sulca-sedano-969174324
-* ♻️ **Pagina de Reciclaje:** https://sistema-reciclaje-frontend.vercel.app/ 
+* ♻️ **Explorar la Interfaz de la pagina en Vercel:** https://sistema-reciclaje-frontend.vercel.app/**
+> ⚠️ **Nota sobre la infraestructura en la nube:** > La interfaz de usuario (Frontend) está desplegada en Vercel y es 100% navegable para visualizar el diseño, el enrutamiento y la estructura de los componentes. 
+> Sin embargo, para la optimización de recursos, el Backend (Spring Boot alojado en Railway) se mantiene inactivo. Por este motivo, la interfaz gráfica cargará sin problemas, pero las peticiones de datos (como iniciar sesión o cargar la lista de reciclaje) no devolverán información en este momento. ¡Siéntete libre de explorar la UI de todas formas!
