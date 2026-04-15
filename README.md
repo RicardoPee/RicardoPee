@@ -33,3 +33,4 @@ Actualmente estoy enfocado en construir aplicaciones robustas y escalables, inte
 
 * 📧 **Email:** jricardonews@gmail.com
 * 💼 **LinkedIn:** www.linkedin.com/in/jesus-ricardo-sulca-sedano-969174324
+* ♻️ **Pagina de Reciclaje:** https://sistema-reciclaje-frontend.vercel.app/ 
