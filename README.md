@@ -6,7 +6,7 @@ Actualmente estoy enfocado en construir aplicaciones robustas y escalables, inte
 
 ## 🚀 Sobre mí
 
-* 🎓 **Estudiante:** 8vo ciclo de Ingeniería de Sistemas. (Tercio Superior)
+* 🎓 **Estudiante:** 8vo ciclo de Ingeniería de Sistemas. (Quinto Superior)
 * 💼 **Experiencia Práctica:** He desarrollado soluciones de automatización empresarial utilizando integraciones con **n8n** y aplicaciones en Excel para JAIRAS SAC, optimizando sus flujos de trabajo.
 * 🌐 **Idiomas:** Estudiando inglés intermedio (Britanico).
 * 🎮 **Cuando no estoy programando:** Me vas a encontrar en una partida de Valorant, intentando sobrevivir en Green Hell, o disfrutando de una buena causa con ceviche. 
