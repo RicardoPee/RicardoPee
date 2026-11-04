@@ -1,6 +1,6 @@
 # ¡Hola! Soy Ricardo 👋
 
-Soy estudiante de 8vo ciclo de Ingeniería de Sistemas, un apasionado por resolver problemas reales a través del código y la automatización. Me entusiasma el desarrollo Full-Stack y tengo un fuerte interés en áreas como **Data Analytics, Ciberseguridad e Inteligencia Artificial**.
+Soy estudiante de 9no ciclo de Ingeniería de Sistemas, un apasionado por resolver problemas reales a través del código y la automatización. Me entusiasma el desarrollo Full-Stack y tengo un fuerte interés en áreas como **Data Analytics, Ciberseguridad e Inteligencia Artificial**.
 
 Actualmente estoy enfocado en construir aplicaciones robustas y escalables, integrando buenas prácticas de desarrollo y bases de datos relacionales.
 
@@ -33,7 +33,9 @@ Actualmente estoy enfocado en construir aplicaciones robustas y escalables, inte
 
 * 📧 **Email:** jricardonews@gmail.com
 * 💼 **LinkedIn:** www.linkedin.com/in/jesus-ricardo-sulca-sedano-969174324
-* ♻️ **Explorar la Interfaz de la pagina en Vercel:** https://sistema-reciclaje-frontend.vercel.app/
-> ⚠️ **Nota sobre la infraestructura en la nube:**  La interfaz de usuario (Frontend) está desplegada en Vercel y es 100% navegable para visualizar el diseño, el enrutamiento y la estructura de los componentes. 
+* 🌊 **Explorar la Interfaz de la pagina de Academia de Natacion:** https://marea-natacion.pages.dev/
+* 🍗 **Explorar la Interfaz de la pagina de Polleria:** https://elbuensabor-demo.pages.dev/
+* ♻️ **Explorar la Interfaz de la pagina en Reciclaje:** https://sistema-reciclaje-frontend.vercel.app/
+
 
 
