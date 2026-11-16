@@ -33,6 +33,9 @@ Actualmente estoy enfocado en construir aplicaciones robustas y escalables, inte
 
 * 📧 **Email:** jricardonews@gmail.com
 * 💼 **LinkedIn:** www.linkedin.com/in/jesus-ricardo-sulca-sedano-969174324
+
+## ⚡ Proyectos
+
 * 🌊 **Explorar la Interfaz de la pagina de Academia de Natacion:** https://marea-natacion.pages.dev/
 * 🍗 **Explorar la Interfaz de la pagina de Polleria:** https://elbuensabor-demo.pages.dev/
 * ♻️ **Explorar la Interfaz de la pagina en Reciclaje:** https://sistema-reciclaje-frontend.vercel.app/
